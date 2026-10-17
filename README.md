@@ -2,9 +2,8 @@
 <h3 align="center">☁️ Cloud & DevOps &nbsp;|&nbsp; ⚡ HPC — GPU · CUDA · OpenMP · MPI</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hicham-habchane"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hicham-habchane"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
   <a href="https://x.com/7abchane"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Hichamhabchane"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="mailto:hichamhabchane26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -25,36 +24,26 @@
 
 ---
 
-### 🛠 Tech Stack
-
-**HPC & Parallel Computing**
-
-<p>
-  <img src="https://img.shields.io/badge/OpenMP-1F4E79?style=flat-square" />
-  <img src="https://img.shields.io/badge/MPI-2E7D32?style=flat-square" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-</p>
-
-**Languages, Cloud & DevOps, Machine Learning**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,scala,bash,linux,docker,kubernetes,git,github,sklearn,tensorflow,pytorch,latex&perline=7" />
-</p>
-
----
-
 ### 🔬 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [Distributed graph analysis – Spark](https://github.com/H-HABCHANE/Manipulation-des-graphs-dans-un-envirenement-distribu-Apache-Spark-) | Social network analysis with Spark GraphX & PySpark (PageRank, connected components, degrees). Dockerized, automated build → tests → run in Bash, scalability benchmark on 1/2/4 cores | Scala, PySpark, Docker |
 | [cuda-programming](https://github.com/H-HABCHANE/cuda-programming) | GPU programming with CUDA | CUDA, C |
 | [HPC_2023](https://github.com/H-HABCHANE/HPC_2023) | Parallel scientific kernels: execution time, speed-up, scaling and memory analysis | C |
-| [docker-learning-labs](https://github.com/H-HABCHANE/docker-learning-labs) | Dockerfile & build cache, volumes, multi-service apps with Docker Compose | Docker, Compose |
-| [K8s-learning-labs](https://github.com/H-HABCHANE/K8s-learning-labs) | Container orchestration labs | Kubernetes |
+| Lattice Boltzmann fluid solver *(in progress)* | Fluid simulation ported step by step: CPU → OpenMP → CUDA → multi-GPU | OpenMP, CUDA |
+| [Distributed graph analysis – Spark](https://github.com/H-HABCHANE/Manipulation-des-graphs-dans-un-envirenement-distribu-Apache-Spark-) | Social network analysis with Spark GraphX & PySpark (PageRank, connected components, degrees). Dockerized, automated build → tests → run in Bash, scalability benchmark on 1/2/4 cores | Scala, PySpark, Docker |
 | [tp-powerjoular](https://github.com/H-HABCHANE/tp-powerjoular) | Energy consumption measurement of programs | Python, PowerJoular |
-| [nlp-word2vec-lstm](https://github.com/H-HABCHANE/nlp-word2vec-lstm) | Text modeling with Word2Vec + LSTM | Python, Jupyter |
+| [docker-learning-labs](https://github.com/H-HABCHANE/docker-learning-labs) | Hands-on Docker labs on Ubuntu: Dockerfiles, volumes, multi-service Docker Compose apps (Flask + Redis with healthcheck and environment variables), images published to Docker Hub | Docker, Compose |
+| [K8s-learning-labs](https://github.com/H-HABCHANE/K8s-learning-labs) | Kubernetes labs on a local minikube cluster: Pods and Deployments (replicas, automatic Pod replacement) with `kubectl` and YAML manifests | Kubernetes |
+
+---
+
+### 🛠 Tech Stack
+
+- **HPC & Parallel Computing:** OpenMP · MPI · CUDA · Apache Spark (GraphX, PySpark) · profiling & code optimization · Linux clusters
+- **Languages:** C · C++ · Python · Scala · Bash
+- **Cloud & DevOps:** Docker · Docker Compose · Kubernetes · Linux · Git / GitHub
+- **Machine Learning:** scikit-learn · XGBoost · TensorFlow / Keras · PyTorch
 
 ---
 
@@ -64,15 +53,3 @@
 - **Coursera / DeepLearning.AI** — Machine Learning Specialization (2023)
 
 🌍 **Languages:** Arabic (native) · French (fluent) · English (B1)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=H-HABCHANE&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-HABCHANE&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=H-HABCHANE&theme=tokyonight&hide_border=true" />
-</p>
