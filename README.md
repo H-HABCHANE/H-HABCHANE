@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hicham HABCHANE</h1>
-<h3 align="center">☁️ Cloud & DevOps &nbsp;|&nbsp; ⚡ HPC — GPU · CUDA · OpenMP · MPI</h3>
+<h3 align="center">⚡ HPC — CUDA · OpenMP · MPI &nbsp;|&nbsp; ☁️ Cloud & DevOps — Docker · Kubernetes</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hicham-habchane"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
