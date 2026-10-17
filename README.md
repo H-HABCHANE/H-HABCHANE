@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hicham HABCHANE</h1>
-<h3 align="center">HPC & Cloud | DevOps | GPU Computing | AI & Data Science</h3>
+<h3 align="center">HPC & Cloud | DevOps | GPU Computing</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hicham-habchane"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
