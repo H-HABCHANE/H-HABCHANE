@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hicham HABCHANE</h1>
-<h3 align="center">Optimization & HPC | AI & Data Science</h3>
+<h3 align="center">HPC & Cloud | DevOps | GPU Computing | AI & Data Science</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hicham-habchane"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -8,21 +8,38 @@
   <a href="mailto:hichamhabchane26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  🎯 <b>Looking for a 6-month end-of-studies internship in HPC, Cloud / DevOps & GPU computing</b> 📍 Perpignan, France
+</p>
+
 ---
 
 ### 🚀 About Me
 
-- ⚡ I work on **High-Performance Computing**: parallel programming (C, CUDA), distributed systems (Apache Spark) and energy-aware computing.
-- 🤖 I build **AI & Data Science** projects: NLP (Word2Vec, LSTM), recommender systems, signal processing (Fourier & Wavelets).
-- 🐳 Currently learning **Docker** and **Kubernetes** for scalable, cloud-native HPC/AI workloads.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/hicham-habchane).
+- 🎓 **M2 student in High Performance Computing & Simulation (CHPS)** at Université de Perpignan Via Domitia, France.
+- 🎓 Graduate of a **Master in Cloud & High Performance Computing** (ENSIAS, Rabat) and a **Bachelor in Applied Mathematics** (Université Ibn Tofail).
+- ⚡ I parallelize and optimize code on **CPU/GPU** architectures (**OpenMP, MPI, CUDA**) and measure speed-up and scalability.
+- 🐳 I containerize applications with **Docker, Docker Compose and Kubernetes** for reproducible environments, and automate workflows with **Bash** on **Linux**.
+- 🧬 Former ML intern at **UM6P** (genomics): **+10% accuracy** over the baseline model, with training on a computing cluster (batch jobs, GPU).
+- 👨‍🏫 Former mathematics teacher (Ministry of National Education, Morocco).
 
 ---
 
 ### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,cuda,linux,bash,docker,kubernetes,git,github,pytorch,tensorflow,sklearn,mongodb&perline=7" />
+**HPC & Parallel Computing**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenMP-1F4E79?style=flat-square" />
+  <img src="https://img.shields.io/badge/MPI-2E7D32?style=flat-square" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+</p>
+
+**Languages, Cloud & DevOps, Machine Learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,scala,bash,linux,docker,kubernetes,git,github,sklearn,tensorflow,pytorch,latex&perline=7" />
 </p>
 
 ---
@@ -31,13 +48,22 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [Distributed graph analysis – Spark](https://github.com/H-HABCHANE/Manipulation-des-graphs-dans-un-envirenement-distribu-Apache-Spark-) | Social network analysis with Spark GraphX & PySpark (PageRank, connected components, degrees). Dockerized, automated build → tests → run in Bash, scalability benchmark on 1/2/4 cores | Scala, PySpark, Docker |
 | [cuda-programming](https://github.com/H-HABCHANE/cuda-programming) | GPU programming with CUDA | CUDA, C |
-| [HPC_2023](https://github.com/H-HABCHANE/HPC_2023) | Parallel computing labs | C |
-| [Manipulation des graphes – Spark](https://github.com/H-HABCHANE/Manipulation-des-graphs-dans-un-envirenement-distribu-Apache-Spark-) | Graph processing in a distributed environment | Python, Apache Spark |
+| [HPC_2023](https://github.com/H-HABCHANE/HPC_2023) | Parallel scientific kernels: execution time, speed-up, scaling and memory analysis | C |
+| [docker-learning-labs](https://github.com/H-HABCHANE/docker-learning-labs) | Dockerfile & build cache, volumes, multi-service apps with Docker Compose | Docker, Compose |
+| [K8s-learning-labs](https://github.com/H-HABCHANE/K8s-learning-labs) | Container orchestration labs | Kubernetes |
 | [tp-powerjoular](https://github.com/H-HABCHANE/tp-powerjoular) | Energy consumption measurement of programs | Python, PowerJoular |
-| [docker-learning-labs](https://github.com/H-HABCHANE/docker-learning-labs) / [K8s-learning-labs](https://github.com/H-HABCHANE/K8s-learning-labs) | Containers & orchestration labs | Docker, Kubernetes |
 | [nlp-word2vec-lstm](https://github.com/H-HABCHANE/nlp-word2vec-lstm) | Text modeling with Word2Vec + LSTM | Python, Jupyter |
-| [Movie-Recommender-Systems](https://github.com/H-HABCHANE/Movie-Recommender-Systems) | Recommendation algorithms | Python, Jupyter |
+
+---
+
+### 📜 Certifications
+
+- **IBM** — AI Analyst Certificate (2023)
+- **Coursera / DeepLearning.AI** — Machine Learning Specialization (2023)
+
+🌍 **Languages:** Arabic (native) · French (fluent) · English (B1)
 
 ---
 
