@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hicham HABCHANE</h1>
-<h3 align="center"> ⚡ HPC — CUDA · OpenMP · MPI | ☁️ Cloud & DevOps  </h3>
+<h3 align="center">⚡ High Performance Computing · 🌊 Computational Fluid Dynamics · ☁️ Cloud & DevOps</h3>
+<p align="center"><i>From the Navier–Stokes equations to multi-GPU code — validated, measured, reproducible.</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hicham-habchane"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
@@ -8,7 +9,7 @@
 </p>
 
 <p align="center">
-  🎯 <b>Looking for a 6-month end-of-studies internship in HPC, Cloud / DevOps & GPU computing</b> 📍 Perpignan, France
+  🎯 <b>Looking for a 6-month end-of-studies internship (early 2027) in HPC, CFD / numerical simulation, GPU computing or Cloud / DevOps</b> 📍 Perpignan, France
 </p>
 
 ---
@@ -18,6 +19,7 @@
 - 🎓 **M2 student in High Performance Computing & Simulation (CHPS)** at Université de Perpignan Via Domitia, France.
 - 🎓 Graduate of a **Master in Cloud & High Performance Computing** (ENSIAS, Rabat) and a **Bachelor in Applied Mathematics** (Université Ibn Tofail).
 - ⚡ I parallelize and optimize code on **CPU/GPU** architectures (**OpenMP, MPI, CUDA**) and measure speed-up and scalability.
+- 🌊 I build **fluid flow solvers** (Lattice Boltzmann, Navier–Stokes) in **C++**: validation against analytical flows (Poiseuille, Couette), convergence order, then performance against the memory-bandwidth ceiling.
 - 🐳 I containerize applications with **Docker, Docker Compose and Kubernetes** for reproducible environments, and automate workflows with **Bash** on **Linux**.
 - 🧬 Former ML intern at **UM6P** (genomics): **+10% accuracy** over the baseline model, with training on a computing cluster (batch jobs, GPU).
 - 👨‍🏫 Former mathematics teacher (Ministry of National Education, Morocco).
@@ -30,7 +32,7 @@
 |---|---|---|
 | [cuda-programming](https://github.com/H-HABCHANE/cuda-programming) | GPU programming with CUDA | CUDA, C |
 | [HPC_2023](https://github.com/H-HABCHANE/HPC_2023) | Parallel scientific kernels: execution time, speed-up, scaling and memory analysis | C |
-| Lattice Boltzmann fluid solver *(in progress)* | Fluid simulation ported step by step: CPU → OpenMP → CUDA → multi-GPU | OpenMP, CUDA |
+| 🌊 Lattice Boltzmann fluid solver *(in progress)* | D2Q9-BGK solver in C++17, ported step by step CPU → OpenMP → CUDA → multi-GPU. Validated on Poiseuille flow (2nd-order convergence, mass drift < 1e-13), CTest suite run by GitHub Actions; OpenMP version bit-for-bit identical to the serial one, 11.6 → 74 MLUPS on one core (×6.4), 112 MLUPS on 4 cores (memory-bound) | C++17, OpenMP, CUDA, CMake |
 | [Inverted pendulum: LQR vs PPO](https://github.com/H-HABCHANE/pendule-inverse-ppo-lqr) | M1 team research project: stabilizing a cart-pole with optimal control (LQR) and reinforcement learning (PPO) under identical conditions — nonlinear model, 4 N actuator saturation, 3 training seeds, basin of attraction, proven physical limit. Tested, reproducible Python package | Python, Stable-Baselines3, Gymnasium, SciPy |
 | [Distributed graph analysis – Spark](https://github.com/H-HABCHANE/Manipulation-des-graphs-dans-un-envirenement-distribu-Apache-Spark-) | Social network analysis with Spark GraphX & PySpark (PageRank, connected components, degrees). Dockerized, automated build → tests → run in Bash, scalability benchmark on 1/2/4 cores | Scala, PySpark, Docker |
 | [tp-powerjoular](https://github.com/H-HABCHANE/tp-powerjoular) | Energy consumption measurement of programs | Python, PowerJoular |
@@ -41,8 +43,9 @@
 
 ### 🛠 Tech Stack
 
+- **Fluid Mechanics & CFD:** Navier–Stokes · dimensionless numbers (Re, Ma, CFL) · boundary layer · turbulence (RANS k–ε / k–ω SST, LES, DNS) · Lattice Boltzmann · finite differences / finite volumes · verification & validation
 - **HPC & Parallel Computing:** OpenMP · MPI · CUDA · Apache Spark (GraphX, PySpark) · profiling & code optimization · Linux clusters
-- **Languages:** C · C++ · Python · Scala · Bash
+- **Languages:** C · C++17 · Python · Scala · MATLAB · Bash
 - **Cloud & DevOps:** Docker · Docker Compose · Kubernetes · Linux · Git / GitHub
 - **Machine Learning:** scikit-learn · XGBoost · TensorFlow / Keras · PyTorch
 
@@ -53,4 +56,4 @@
 - **IBM** — AI Analyst Certificate (2023)
 - **Coursera / DeepLearning.AI** — Machine Learning Specialization (2023)
 
-🌍 **Languages:** Arabic (native) · French (fluent) · English (B1)
+🌍 **Languages:** Arabic (native) · French (fluent) · English (B2 reading & writing, B1+ speaking)
