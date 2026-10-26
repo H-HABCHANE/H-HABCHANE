@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hicham HABCHANE</h1>
-<h3 align="center">⚡ High Performance Computing · 🌊 Computational Fluid Dynamics · ☁️ Cloud & DevOps</h3>
-<p align="center"><i>From the Navier–Stokes equations to multi-GPU code — validated, measured, reproducible.</i></p>
+<h3 align="center">🎓 M2 student in High Performance Computing & Simulation</h3>
+<p align="center"><i>Learning and building in ⚡ HPC & GPU computing · 🌊 CFD · ☁️ Cloud & DevOps</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hicham-habchane"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
@@ -19,7 +19,7 @@
 - 🎓 **M2 student in High Performance Computing & Simulation (CHPS)** at Université de Perpignan Via Domitia, France.
 - 🎓 Graduate of a **Master in Cloud & High Performance Computing** (ENSIAS, Rabat) and a **Bachelor in Applied Mathematics** (Université Ibn Tofail).
 - ⚡ I parallelize and optimize code on **CPU/GPU** architectures (**OpenMP, MPI, CUDA**) and measure speed-up and scalability.
-- 🌊 I build **fluid flow solvers** (Lattice Boltzmann, Navier–Stokes) in **C++**: validation against analytical flows (Poiseuille, Couette), convergence order, then performance against the memory-bandwidth ceiling.
+- 🌊 I am building a **Lattice Boltzmann fluid solver** in **C++**: first validated against analytical flows (Poiseuille), then optimized and measured against the memory-bandwidth limit.
 - 🐳 I containerize applications with **Docker, Docker Compose and Kubernetes** for reproducible environments, and automate workflows with **Bash** on **Linux**.
 - 🧬 Former ML intern at **UM6P** (genomics): **+10% accuracy** over the baseline model, with training on a computing cluster (batch jobs, GPU).
 - 👨‍🏫 Former mathematics teacher (Ministry of National Education, Morocco).
